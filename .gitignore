@@ -1,0 +1,26 @@
+# C Specific Ignores
+*.out
+*.exe
+*.o
+*.so
+*.ko
+*.obj
+*.elf
+*.dll
+*.dylib
+*.app
+*.x86_64
+*.hex
+*.i*86
+
+# Pebble Specific Ignores
+build
+
+# Mac Extensions
+*.lock
+.lock-*
+.DS_Store
+
+# Editor Specific Ignores
+*.swp
+*~

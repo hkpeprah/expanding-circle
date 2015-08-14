@@ -1,0 +1,21 @@
+{
+  "uuid": "cd80ec1d-c1df-445b-b63e-2f0616462fe6",
+  "shortName": "Expanding",
+  "longName": "Expanding Circle",
+  "companyName": "Pebble Technology",
+  "versionLabel": "0.1",
+  "sdkVersion": "3",
+  "targetPlatforms": [
+    "basalt",
+    "chalk"
+  ],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+    ]
+  }
+}
